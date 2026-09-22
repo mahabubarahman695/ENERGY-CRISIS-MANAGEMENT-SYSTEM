@@ -1,2 +1,2 @@
-# ANT COLONY PROJECT
-Simulation and implementation of Ant Colony Optimization algorithm.
+# ENERGY CRISIS MANAGEMENT SYSTEM
+A project on monitoring, managing, and solving energy crisis problems efficiently.
